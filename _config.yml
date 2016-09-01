@@ -1,0 +1,58 @@
+url: https://y7kim.github.io
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: Metidia Advertising Solutions
+email: contact@metidia.com
+description: "Metidia Advertising Solutions (MAS) is the agency in charge to put your brand within the Metidia's game. As you know, Metidia develops video game with reality as forground. MAS is in charge to put your brand into the game."
+
+
+# Team names, titles and social links
+people:
+- name: Oswald BERNARD
+  pic: 1
+  position: Lead Business Developper
+  social:
+    - title: envelope-o
+      url: mailto:oswald.bernard@metidia.com
+
+- name: Fanny GARRET
+  pic: 2
+  position: Lead Marketer
+  social:
+    - title: envelope-o
+      url: mailto:Fanny.garret@metidia.com
+
+- name: Fabien BERNARD
+  pic: 3
+  position: Lead Developer Back
+  social:
+    - title: envelope-o
+      url: mailto:fabien.bernard@metidia.com
+
+- name: Nicolas CARLO
+  pic: 4
+  position: Lead Developer Front
+  social:
+    - title: envelope-o
+      url: mailto:nicolas.carlo@metidia.com
+
+- name: Maureen FRADON
+  pic: 5
+  position: Lead Arts
+  social:
+    - title: envelope-o
+      url: mailto:maureen.fradon@metidia.com
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: envelope-o
+    url: mailto:contact@metidia.com
+# Postal address (add as many lines as necessary)
+address:
+  - line: 35 rue du sentier
+  - line: 75002 Paris, France
+
+# Build settings
+markdown: kramdown
+permalink: pretty

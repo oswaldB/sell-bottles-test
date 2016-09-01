@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Metidia Advertising Solutions</title>
+    <description>Metidia Advertising Solutions (MAS) is the agency in charge to put your brand within the Metidia&#39;s game. As you know, Metidia develops video game with reality as forground. MAS is in charge to put your brand into the game.</description>
+    <link>https://y7kim.github.io/agency-jekyll-theme//</link>
+    <atom:link href="https://y7kim.github.io/agency-jekyll-theme//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 01 Sep 2016 12:29:40 +0200</pubDate>
+    <lastBuildDate>Thu, 01 Sep 2016 12:29:40 +0200</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Round Icons</title>
+        <description>
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 +0200</pubDate>
+        <link>https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/15/project-6/</link>
+        <guid isPermaLink="true">https://y7kim.github.io/agency-jekyll-theme//web%20development/2014/07/15/project-6/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+  </channel>
+</rss>
